@@ -1,0 +1,127 @@
+{
+    "books": [
+        {
+            "Id": "B-X7K2Y",
+            "Title": "The Great Gatsby",
+            "Author": "F. Scott Fitzgerald",
+            "Available_copies": 4,
+            "Total_copies": 5,
+            "Added_on": "2026-02-06 03:30:00"
+        },
+        {
+            "Id": "B-M4N8P",
+            "Title": "1984",
+            "Author": "George Orwell",
+            "Available_copies": 2,
+            "Total_copies": 3,
+            "Added_on": "2026-02-06 03:30:00"
+        },
+        {
+            "Id": "B-R2W9T",
+            "Title": "To Kill a Mockingbird",
+            "Author": "Harper Lee",
+            "Available_copies": 4,
+            "Total_copies": 4,
+            "Added_on": "2026-02-06 03:30:00"
+        },
+        {
+            "Id": "B-F5H1J",
+            "Title": "The Hobbit",
+            "Author": "J.R.R. Tolkien",
+            "Available_copies": 6,
+            "Total_copies": 6,
+            "Added_on": "2026-02-06 03:30:00"
+        },
+        {
+            "Id": "B-L9S3V",
+            "Title": "Dune",
+            "Author": "Frank Herbert",
+            "Available_copies": 2,
+            "Total_copies": 2,
+            "Added_on": "2026-02-06 03:30:00"
+        },
+        {
+            "Id": "B-Q7Z4X",
+            "Title": "Foundation",
+            "Author": "Isaac Asimov",
+            "Available_copies": 3,
+            "Total_copies": 3,
+            "Added_on": "2026-02-06 03:30:00"
+        },
+        {
+            "Id": "B-G8C2N",
+            "Title": "Never Let Me Go",
+            "Author": "Kazuo Ishiguro",
+            "Available_copies": 4,
+            "Total_copies": 4,
+            "Added_on": "2026-02-06 03:30:00"
+        },
+        {
+            "Id": "B-A5K9L",
+            "Title": "Circe",
+            "Author": "Madeline Miller",
+            "Available_copies": 5,
+            "Total_copies": 5,
+            "Added_on": "2026-02-06 03:30:00"
+        },
+        {
+            "Id": "B-P1M6R",
+            "Title": "The Silent Patient",
+            "Author": "Alex Michaelides",
+            "Available_copies": 3,
+            "Total_copies": 3,
+            "Added_on": "2026-02-06 03:30:00"
+        },
+        {
+            "Id": "B-D3F7G",
+            "Title": "Project Hail Mary",
+            "Author": "Andy Weir",
+            "Available_copies": 7,
+            "Total_copies": 7,
+            "Added_on": "2026-02-06 03:30:00"
+        }
+    ],
+    "members": [
+        {
+            "Id": "M-R1S8H",
+            "name": "Rishi Ranjan",
+            "email": "rishi@example.com",
+            "borrowed": [
+                {
+                    "book_id": "B-M4N8P",
+                    "title": "1984",
+                    "borrow_on": "2026-02-06 03:33:55"
+                },
+                {
+                    "book_id": "B-X7K2Y",
+                    "title": "The Great Gatsby",
+                    "borrow_on": "2026-02-06 03:53:22"
+                }
+            ]
+        },
+        {
+            "Id": "M-A2N3J",
+            "name": "Anjali Singh",
+            "email": "anjali@example.com",
+            "borrowed": []
+        },
+        {
+            "Id": "M-K4L5M",
+            "name": "Kabir Sharma",
+            "email": "kabir@example.com",
+            "borrowed": []
+        },
+        {
+            "Id": "M-S6T7U",
+            "name": "Sneha Kapoor",
+            "email": "sneha@example.com",
+            "borrowed": []
+        },
+        {
+            "Id": "M-V8W9X",
+            "name": "Vikram Vedha",
+            "email": "vikram@example.com",
+            "borrowed": []
+        }
+    ]
+}
